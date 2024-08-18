@@ -1,6 +1,5 @@
 # Landmark-Classification-with-Convolutional-Neural-Networks-CNNs-
-
-## In this project, I applied the skills I acquired in the Convolutional Neural Networks (CNNs) course to build a robust landmark classifier. The aim was to create a system capable of automatically predicting the location of an image based on discernible landmarks. This project is particularly relevant for photo sharing and storage services that rely on location data for features like automatic tagging and photo organization, especially when the image's metadata is unavailable.
+In this project, I applied the skills I acquired in the Convolutional Neural Networks (CNNs) course to build a robust landmark classifier. The aim was to create a system capable of automatically predicting the location of an image based on discernible landmarks. This project is particularly relevant for photo sharing and storage services that rely on location data for features like automatic tagging and photo organization, especially when the image's metadata is unavailable.
 
 ## Data Preprocessing:
 
